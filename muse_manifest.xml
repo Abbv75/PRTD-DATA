@@ -1,0 +1,156 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://data2paibelier.it.rehum.site" resolutions="1x" timestamp="1742478649565">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-gabarit.css" crc="3958398987" ref="techniques:bonnes-pratiques:encadrement:plans-d-affaire:valorisation:index:fiches-projets:financement"/>
+    <file name="techniques.css" crc="4033350829" ref="techniques"/>
+    <file name="bonnes-pratiques.css" crc="44941939" ref="bonnes-pratiques"/>
+    <file name="encadrement.css" crc="229528958" ref="encadrement"/>
+    <file name="plans-d-affaire.css" crc="4039687607" ref="plans-d-affaire"/>
+    <file name="valorisation.css" crc="4039687607" ref="valorisation"/>
+    <file name="index.css" crc="209178610" ref="index"/>
+    <file name="fiches-projets.css" crc="3795679150" ref="fiches-projets"/>
+    <file name="financement.css" crc="4106336055" ref="financement"/>
+  </folder>
+  <folder name="assets">
+    <file name="f1__projet-de-transformation-du-riz_1.pdf" crc="3847681676" seo="true" mt="1734620634000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="museutils.js" crc="4148063285" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="whatinput.js" crc="86476730" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="museconfig.js" crc="172512987" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="require.js" crc="4159430777" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="webpro.js" crc="3986320349" ref="techniques:encadrement"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="techniques:encadrement"/>
+  </folder>
+  <folder name="images">
+    <file name="armobanko.png" crc="351444234" ref="index"/>
+    <file name="cropped-2pa-logo.png" crc="4042578151" ref="index"/>
+    <file name="u155-7.png" crc="496451518" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="u339-4.png" crc="4182088641" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="u348-4.png" crc="346747264" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="u384-4.png" crc="3820006849" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="u414-4.png" crc="479355375" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="u442-4.png" crc="4052731204" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="u471-4.png" crc="4032813481" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="u495-4.png" crc="351213079" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="u525-4.png" crc="272699759" ref="index:techniques:encadrement:valorisation:financement:bonnes-pratiques:plans-d-affaire:fiches-projets"/>
+    <file name="flechcopie.png" crc="107346941" seo="true" ref="index"/>
+    <file name="u2131-4.png" crc="3893452682" ref="index"/>
+    <file name="u2132-4.png" crc="3807109072" ref="index"/>
+    <file name="kkkkjkj-crop-u2128.jpg" crc="478087727" ref="index"/>
+    <file name="u2531-4.png" crc="277673792" ref="index"/>
+    <file name="u2569-6.png" crc="4085501638" ref="index"/>
+    <file name="u2575-6.png" crc="35187209" ref="index"/>
+    <file name="u2578-6.png" crc="4240986503" ref="index"/>
+    <file name="u2581-6.png" crc="402926561" ref="index"/>
+    <file name="u2584-6.png" crc="281059989" ref="index"/>
+    <file name="u2562-6.png" crc="409368176" ref="index"/>
+    <file name="u2153-4.png" crc="258862346" ref="index"/>
+    <file name="u2152-4.png" crc="4009647987" ref="index"/>
+    <file name="enclos-cochons-1024x535.jpg" crc="60173706" ref="index:bonnes-pratiques"/>
+    <file name="okcommerce-vivrier07032022galgal123234092145-768x531-1_002-crop-u2155.jpg" crc="382727936" ref="index"/>
+    <file name="u2297-4.png" crc="4072154298" ref="index"/>
+    <file name="u2334-4.png" crc="4161920784" ref="index"/>
+    <file name="u2338-4.png" crc="4178161762" ref="index"/>
+    <file name="info-chart_002-crop-u2336.jpg" crc="259833882" ref="index"/>
+    <file name="u2339-4.png" crc="3988559377" ref="index"/>
+    <file name="u2148-4.png" crc="495566413" ref="index"/>
+    <file name="u2145-6.png" crc="4227818917" ref="index"/>
+    <file name="u2590-14.png" crc="4185424874" ref="index"/>
+    <file name="adobestock-513800015-crop-u2146.jpg" crc="152262959" ref="index"/>
+    <file name="fgfg.png" crc="410794150" ref="index:financement:fiches-projets"/>
+    <file name="u2625-4.png" crc="238736731" ref="index"/>
+    <file name="u2628-4.png" crc="125305075" ref="index"/>
+    <file name="nfamara-ever-growing-farm-pic-dawn-hoyte-crop-u2643.jpg" crc="304951633" ref="index"/>
+    <file name="u2646-6.png" crc="204325824" ref="index"/>
+    <file name="istockphoto-681664092-170667a-crop-u2783.jpg" crc="454020101" ref="index"/>
+    <file name="u2782-6.png" crc="3837281" ref="index"/>
+    <file name="shutterstock_256798900-crop-u2746.jpg" crc="4199063655" ref="index"/>
+    <file name="u2745-6.png" crc="4176194395" ref="index"/>
+    <file name="461932762_1063968999064026_1145259306733441136_n.jpg" crc="459328610" ref="index"/>
+    <file name="u2888-4.png" crc="138039739" ref="index"/>
+    <file name="u2900-4.png" crc="3936679521" ref="index"/>
+    <file name="u2891-14.png" crc="37378675" ref="index"/>
+    <file name="u2907-4.png" crc="515435657" ref="index"/>
+    <file name="u2904-25.png" crc="82515579" ref="index"/>
+    <file name="u2988-4.png" crc="3936679521" ref="index"/>
+    <file name="u2914-4.png" crc="3996855328" ref="index"/>
+    <file name="u2917-4.png" crc="3936679521" ref="index"/>
+    <file name="u2920-4.png" crc="346918983" ref="index"/>
+    <file name="u2926-4.png" crc="4203691986" ref="index"/>
+    <file name="u2962-4.png" crc="113814928" ref="index"/>
+    <file name="u2971-4.png" crc="437146808" ref="index"/>
+    <file name="u2975-4.png" crc="80052870" ref="index"/>
+    <file name="u553-4.png" crc="251363157" ref="techniques"/>
+    <file name="flech.png" crc="4110375226" ref="techniques:encadrement:financement:bonnes-pratiques:fiches-projets"/>
+    <file name="blank.gif" crc="4208392903" ref="techniques:encadrement:financement:bonnes-pratiques:fiches-projets"/>
+    <file name="u609_states.png" crc="402953785" ref="techniques"/>
+    <file name="u609_states-r.png" crc="3810245049" ref="techniques"/>
+    <file name="fgdvcfgd.png" crc="473863336" seo="true" ref="techniques"/>
+    <file name="dfgdfg.png" crc="3768885899" seo="true" ref="techniques"/>
+    <file name="u1142-4.png" crc="3942455229" ref="encadrement"/>
+    <file name="u1148_states.png" crc="402953785" ref="encadrement"/>
+    <file name="u1148_states-r.png" crc="3810245049" ref="encadrement"/>
+    <file name="u1544-27.png" crc="3974396836" ref="encadrement"/>
+    <file name="u1547-29.png" crc="57793154" ref="encadrement"/>
+    <file name="u1551-12.png" crc="505889129" ref="encadrement"/>
+    <file name="u1554-15.png" crc="4130318281" ref="encadrement"/>
+    <file name="u874-4.png" crc="4078298243" ref="financement"/>
+    <file name="u880_states.png" crc="402953785" ref="financement"/>
+    <file name="u880_states-r.png" crc="3810245049" ref="financement"/>
+    <file name="finnnnnnn11111.png" crc="229600340" seo="true" ref="financement"/>
+    <file name="u876-4.png" crc="15335211" ref="financement"/>
+    <file name="u1598-4.png" crc="188873821" ref="financement"/>
+    <file name="u1607-4.png" crc="202204472" ref="financement"/>
+    <file name="finnnn2.png" crc="3912334339" seo="true" ref="financement"/>
+    <file name="u1276-4.png" crc="4014652476" ref="bonnes-pratiques"/>
+    <file name="u1282_states.png" crc="402953785" ref="bonnes-pratiques"/>
+    <file name="u1282_states-r.png" crc="3810245049" ref="bonnes-pratiques"/>
+    <file name="u1277-4.png" crc="3889029127" ref="bonnes-pratiques"/>
+    <file name="u1792-4.png" crc="176435255" ref="bonnes-pratiques"/>
+    <file name="kkkkjkj-crop-u1779.jpg" crc="347555191" ref="bonnes-pratiques"/>
+    <file name="u1948-4.png" crc="3889029127" ref="bonnes-pratiques"/>
+    <file name="u1947-4.png" crc="176435255" ref="bonnes-pratiques"/>
+    <file name="enclos-cochons-1024x535-crop-u1945.jpg" crc="4061500428" ref="bonnes-pratiques"/>
+    <file name="u1617-4.png" crc="3898679968" ref="bonnes-pratiques"/>
+    <file name="u1621-4.png" crc="531642984" ref="bonnes-pratiques"/>
+    <file name="u1624-4.png" crc="3766407582" ref="bonnes-pratiques"/>
+    <file name="u1630-4.png" crc="372565598" ref="bonnes-pratiques"/>
+    <file name="u1982-4.png" crc="3889029127" ref="bonnes-pratiques"/>
+    <file name="u1981-4.png" crc="176435255" ref="bonnes-pratiques"/>
+    <file name="istockphoto-681664092-170667a-crop-u1979.jpg" crc="4023142050" ref="bonnes-pratiques"/>
+    <file name="u2007-4.png" crc="3889029127" ref="bonnes-pratiques"/>
+    <file name="u2004-4.png" crc="176435255" ref="bonnes-pratiques"/>
+    <file name="shutterstock_256798900-crop-u2005.jpg" crc="4225476866" ref="bonnes-pratiques"/>
+    <file name="u1410-4.png" crc="62653579" ref="fiches-projets"/>
+    <file name="u1416_states.png" crc="402953785" ref="fiches-projets"/>
+    <file name="u1416_states-r.png" crc="3810245049" ref="fiches-projets"/>
+    <file name="u2035-4.png" crc="40672990" ref="fiches-projets"/>
+    <file name="u2038-4.png" crc="4189041109" ref="fiches-projets"/>
+    <file name="nfamara-ever-growing-farm-pic-dawn-hoyte-crop-u3010.jpg" crc="4147283155" ref="fiches-projets"/>
+    <file name="u3013-4.png" crc="294693788" ref="fiches-projets"/>
+    <file name="u2091-10.png" crc="223046662" ref="fiches-projets"/>
+    <file name="shutterstock_256798900-crop-u3053.jpg" crc="3813540555" ref="fiches-projets"/>
+    <file name="u3057-4.png" crc="3799319519" ref="fiches-projets"/>
+    <file name="u3055-10.png" crc="4056874927" ref="fiches-projets"/>
+    <file name="istockphoto-681664092-170667a-crop-u3076.jpg" crc="4185981003" ref="fiches-projets"/>
+    <file name="u3080-4.png" crc="305610854" ref="fiches-projets"/>
+    <file name="u3078-10.png" crc="4288627101" ref="fiches-projets"/>
+    <file name="gombos-crop-u3098.jpg" crc="4169788958" ref="fiches-projets"/>
+    <file name="u3101-4.png" crc="4236125060" ref="fiches-projets"/>
+    <file name="u3103-10.png" crc="498388037" ref="fiches-projets"/>
+  </folder>
+  <file name="index.html" crc="3887290884" seo="true" mt="1742477352966" redirect="true"/>
+  <file name="techniques.html" crc="49724473" seo="true" mt="1742478099468" redirect="true"/>
+  <file name="encadrement.html" crc="4015677767" seo="true" mt="1742478156252" redirect="true"/>
+  <file name="valorisation.html" crc="4076463421" seo="true" mt="1742476586939" redirect="true"/>
+  <file name="financement.html" crc="130085542" seo="true" mt="1742478017863" redirect="true"/>
+  <file name="bonnes-pratiques.html" crc="3811121276" seo="true" mt="1742478326626" redirect="true"/>
+  <file name="plans-d-affaire.html" crc="306360892" seo="true" mt="1742476586939" redirect="true"/>
+  <file name="fiches-projets.html" crc="99527328" seo="true" mt="1742478439088" redirect="true"/>
+</manifest>
